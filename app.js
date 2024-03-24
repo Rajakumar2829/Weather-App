@@ -43,3 +43,6 @@ searchBtn.addEventListener("click", () => {
   checkWeather(searchBox.value);
 });
 checkWeather();
+
+// display: block  ---This will show the content
+// disply: none   ----This will hide the contain
